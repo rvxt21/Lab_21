@@ -1,0 +1,14 @@
+C:\Users\anast\source\repos\SeventeenLab\SeventeenLab\obj\Debug\netcoreapp3.1\SeventeenLab.csproj.AssemblyReference.cache
+C:\Users\anast\source\repos\SeventeenLab\SeventeenLab\obj\Debug\netcoreapp3.1\SeventeenLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anast\source\repos\SeventeenLab\SeventeenLab\obj\Debug\netcoreapp3.1\SeventeenLab.AssemblyInfoInputs.cache
+C:\Users\anast\source\repos\SeventeenLab\SeventeenLab\obj\Debug\netcoreapp3.1\SeventeenLab.AssemblyInfo.cs
+C:\Users\anast\source\repos\SeventeenLab\SeventeenLab\obj\Debug\netcoreapp3.1\SeventeenLab.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\SeventeenLab\SeventeenLab\bin\Debug\netcoreapp3.1\SeventeenLab.exe
+C:\Users\anast\source\repos\SeventeenLab\SeventeenLab\bin\Debug\netcoreapp3.1\SeventeenLab.deps.json
+C:\Users\anast\source\repos\SeventeenLab\SeventeenLab\bin\Debug\netcoreapp3.1\SeventeenLab.runtimeconfig.json
+C:\Users\anast\source\repos\SeventeenLab\SeventeenLab\bin\Debug\netcoreapp3.1\SeventeenLab.runtimeconfig.dev.json
+C:\Users\anast\source\repos\SeventeenLab\SeventeenLab\bin\Debug\netcoreapp3.1\SeventeenLab.dll
+C:\Users\anast\source\repos\SeventeenLab\SeventeenLab\bin\Debug\netcoreapp3.1\SeventeenLab.pdb
+C:\Users\anast\source\repos\SeventeenLab\SeventeenLab\obj\Debug\netcoreapp3.1\SeventeenLab.dll
+C:\Users\anast\source\repos\SeventeenLab\SeventeenLab\obj\Debug\netcoreapp3.1\SeventeenLab.pdb
+C:\Users\anast\source\repos\SeventeenLab\SeventeenLab\obj\Debug\netcoreapp3.1\SeventeenLab.genruntimeconfig.cache
